@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-float temp=25;
+float temp;
 printf("hello!Welcome to celcius to farenheit converter\n");
 printf("'Enter the temparature value (in celcius):\n");
 scanf("%f",& temp);
